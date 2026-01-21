@@ -128,7 +128,6 @@ Kinect Sports,X360,2010,3.92,1.78,0.03,0.51
 Gears of War 3,X360,2011,4.05,1.62,0.07,0.49
 Gears of War,X360,2006,3.54,1.9,0.07,0.6
 Metal Gear Solid 2: Sons of Liberty,PS2,2001,2.45,2.01,0.87,0.72
-Sonic the Hedgehog 2,GEN,1992,4.47,1.2,0.16,0.19
 Metal Gear Solid 4: Guns of the Patriots,PS3,2008,2.63,1.74,0.83,0.83
 Metal Gear Solid,PS,1998,3.18,1.83,0.78,0.24
 The Last of Us,PS3,2013,2.41,2.28,0.28,1.01
@@ -231,7 +230,6 @@ The Elder Scrolls IV: Oblivion,X360,2006,2.82,1.05,0.13,0.4
 Zelda II: The Adventure of Link,NES,1987,2.19,0.5,1.61,0.08
 Need for Speed: Most Wanted,PS2,2005,2.03,1.79,0.08,0.47
 Resistance: Fall of Man,PS3,2006,1.73,1.73,0.14,0.75
-Sonic the Hedgehog,GEN,1991,3.03,0.91,0.26,0.13
 Kingdom Hearts II,PS2,2005,2.2,0.58,1.38,0.17
 FIFA 14,X360,2013,0.92,2.93,0.01,0.46
 Call of Duty: Advanced Warfare,X360,2014,2.75,1.18,0.0,0.37
@@ -515,7 +513,6 @@ Burnout 3: Takedown,PS2,2004,1.23,1.11,0.0,0.34
 Yokai Watch 2 Shinuchi,3DS,2014,0.0,0.0,2.68,0.0
 Need for Speed: Shift,PS3,2009,0.69,1.41,0.04,0.53
 Final Fantasy XIII-2,PS3,2011,0.78,0.75,0.89,0.26
-Mortal Kombat,GEN,1992,1.95,0.63,0.0,0.09
 Call Of Duty 2: Big Red One,PS2,2005,1.48,0.92,0.01,0.26
 Guitar Hero: World Tour,X360,2008,1.78,0.64,0.0,0.25
 Medal of Honor,PS,1998,1.44,1.09,0.0,0.14
@@ -537,7 +534,6 @@ FIFA Soccer 10,X360,2009,0.59,1.79,0.01,0.23
 NBA 2K12,X360,2011,2.31,0.14,0.01,0.16
 Harry Potter and the Chamber of Secrets,PS2,2002,0.9,1.22,0.04,0.44
 Super Mario All-Stars: Limited Edition,Wii,2010,1.02,0.52,0.92,0.14
-Streets of Rage,GEN,1990,1.86,0.55,0.11,0.08
 FIFA Soccer 09,PS3,2008,0.48,1.63,0.04,0.43
 Ratchet & Clank Future: Tools of Destruction,PS3,2007,0.93,1.12,0.08,0.45
 NBA Live 2005,PS2,2004,2.03,0.21,0.0,0.35
@@ -756,7 +752,6 @@ Need for Speed: ProStreet,PS3,2007,0.73,0.92,0.04,0.37
 NBA 2K14,PS3,2013,1.43,0.33,0.04,0.25
 Sonic Mega Collection,GC,2002,1.47,0.48,0.05,0.06
 Diablo III,PS3,2013,0.71,0.83,0.15,0.35
-NBA Jam,GEN,1992,1.75,0.25,0.0,0.05
 PGR4 - Project Gotham Racing 4,X360,2007,0.48,1.29,0.02,0.25
 Dance Central 2,X360,2011,1.45,0.42,0.01,0.16
 Rayman Raving Rabbids: TV Party,Wii,2008,0.73,1.09,0.0,0.23
@@ -876,7 +871,6 @@ Secret of Mana,SNES,1993,0.25,0.07,1.49,0.02
 The Orange Box,X360,2007,1.09,0.54,0.02,0.17
 Air Combat,PS,1995,0.92,0.33,0.52,0.05
 Kirby: Triple Deluxe,3DS,2014,0.61,0.34,0.79,0.09
-Sonic & Knuckles,GEN,1994,1.24,0.43,0.03,0.12
 Namco Museum,PS2,2001,1.73,0.07,0.0,0.02
 The Sims: Hot Date,PC,2001,1.81,0.0,0.0,0.0
 Metroid Prime 3: Corruption,Wii,2007,0.91,0.74,0.07,0.09
@@ -913,7 +907,6 @@ Metroid II: Return of Samus,GB,1991,0.85,0.31,0.56,0.04
 WWF Attitude,PS,1998,1.27,0.42,0.0,0.07
 The SpongeBob SquarePants Movie,PS2,2004,1.06,0.54,0.0,0.16
 Golden Sun,GBA,2001,0.93,0.38,0.4,0.06
-Sonic the Hedgehog 3,GEN,1994,1.02,0.47,0.2,0.07
 Kid Icarus,NES,1986,0.53,0.12,1.09,0.02
 Def Jam: Fight for NY,PS2,2004,0.86,0.67,0.0,0.22
 Tom Clancy's Ghost Recon,XB,2002,1.23,0.46,0.0,0.07
@@ -1015,7 +1008,6 @@ NCAA Football 2004,PS2,2003,1.35,0.09,0.23,0.23
 SpongeBob SquarePants: Battle for Bikini Bottom,PS2,2003,1.08,0.45,0.0,0.14
 Dying Light,PS4,2015,0.63,0.66,0.11,0.26
 Heavenly Sword,PS3,2007,0.57,0.73,0.06,0.3
-Street Fighter II': Special Champion Edition,GEN,1992,1.0,0.3,0.31,0.04
 SSX,PS2,2000,0.78,0.61,0.06,0.2
 Max Payne 3,X360,2012,0.86,0.64,0.01,0.14
 NBA Ballers,PS2,2004,0.81,0.63,0.0,0.21
@@ -1161,7 +1153,6 @@ Red Faction II,PS2,2002,0.49,0.78,0.0,0.23
 Madden NFL 2001,PS2,2000,0.0,0.07,0.05,0.2
 WWF No Mercy,N64,2000,0.0,0.27,0.02,0.02
 Ice Climber,NES,1985,0.0,0.1,0.92,0.02
-Sonic CD,SCD,1993,0.0,0.36,0.09,0.05
 Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki,NES,1986,0.0,0.0,1.5,0.0
 Dead Rising 2,X360,2010,0.0,0.53,0.09,0.12
 Rock Band 2,PS3,2008,0.0,0.2,0.0,0.16
@@ -1261,7 +1252,6 @@ Fight Night Round 4,X360,2009,0.95,0.34,0.0,0.13
 LEGO Star Wars: The Video Game,GC,2005,1.09,0.28,0.0,0.04
 Injustice: Gods Among Us,X360,2013,0.97,0.34,0.0,0.11
 Madden NFL 15,PS3,2014,1.07,0.15,0.0,0.19
-Disney's The Lion King,GEN,1994,0.97,0.37,0.03,0.05
 Ridge Racer,PSP,2004,0.36,0.45,0.32,0.28
 Metroid: Other M,Wii,2010,0.87,0.31,0.13,0.1
 Knockout Kings 2000,PS,1999,1.02,0.34,0.0,0.05
@@ -1339,7 +1329,6 @@ FIFA Soccer 08,X360,2007,0.31,0.89,0.01,0.14
 The ICO & Shadow of the Colossus Collection,PS3,2011,0.67,0.37,0.13,0.17
 Test Drive,PS2,2002,0.95,0.21,0.01,0.18
 Lost Planet: Extreme Condition,X360,2006,1.09,0.04,0.1,0.11
-Mortal Kombat 3,GEN,1994,1.03,0.27,0.0,0.04
 Doom 3,XB,2005,0.85,0.43,0.0,0.06
 Donkey Kong Jungle Beat,GC,2004,0.84,0.22,0.24,0.04
 Need for Speed Carbon,PS2,2006,1.22,0.05,0.05,0.01
@@ -1698,7 +1687,6 @@ Sunset Overdrive,XOne,2014,0.62,0.4,0.0,0.08
 Tom Clancy's Splinter Cell: Chaos Theory,XB,2005,0.68,0.38,0.0,0.05
 Donkey Kong Jr.,NES,1983,0.33,0.07,0.7,0.01
 Arc the Lad,PS,1995,0.0,0.0,1.1,0.01
-NBA Jam Tournament Edition,GEN,1994,0.95,0.14,0.0,0.03
 Need for Speed: ProStreet,Wii,2007,0.54,0.46,0.0,0.12
 Pikmin 3,WiiU,2013,0.45,0.31,0.29,0.06
 Legend of Mana,PS,1999,0.18,0.13,0.73,0.07
@@ -3581,7 +3569,6 @@ Quantum Break,XOne,2016,0.27,0.19,0.01,0.04
 NBA 2K11,Wii,2010,0.47,0.01,0.0,0.03
 World Championship Poker,XB,2004,0.37,0.11,0.0,0.02
 The BIGS,PS2,2007,0.25,0.19,0.0,0.06
-Final Fantasy,WS,2000,0.0,0.0,0.51,0.0
 Burnout Revenge,X360,2006,0.42,0.05,0.0,0.04
 Rory McIlroy PGA Tour,PS4,2015,0.18,0.24,0.0,0.08
 Euro Truck Simulator,PC,2008,0.0,0.42,0.0,0.09
@@ -5517,7 +5504,6 @@ R: Racing Evolution,PS2,2003,0.14,0.11,0.0,0.04
 Tony Hawk: Shred,PS3,2010,0.18,0.07,0.0,0.04
 Netsu Chu! Pro Yakyuu 2003,PS2,2003,0.0,0.0,0.28,0.0
 ATV Quad Power Racing 2,GC,2003,0.22,0.06,0.0,0.01
-Digimon Adventure: Anode Tamer,WS,1999,0.0,0.0,0.28,0.0
 Fantastic 4: Flame On,GBA,2005,0.2,0.08,0.0,0.01
 Siren: Blood Curse,PS3,2008,0.0,0.17,0.09,0.02
 Pro Evolution Soccer 2017,PS4,2016,0.01,0.16,0.09,0.03
@@ -5807,7 +5793,6 @@ Tomba!,PS,1997,0.15,0.1,0.0,0.02
 MLB SlugFest 2006,PS2,2006,0.13,0.1,0.0,0.03
 J Stars Victory Vs.,PSV,2014,0.0,0.07,0.17,0.02
 Rugrats: I Gotta Go Party,GBA,2002,0.19,0.07,0.0,0.0
-Virtua Racing,GEN,1994,0.0,0.0,0.26,0.0
 Crash Tag Team Racing,PSP,2005,0.16,0.06,0.0,0.04
 Prison Break: The Conspiracy,PS3,2010,0.05,0.16,0.0,0.05
 Bolt,PS2,2008,0.09,0.02,0.0,0.16
@@ -5980,7 +5965,6 @@ Spider-Man: Web of Shadows,Wii,2008,0.22,0.01,0.0,0.02
 Billy Hatcher and the Giant Egg,GC,2003,0.19,0.05,0.0,0.01
 Midway's Greatest Arcade Hits,GBA,2001,0.18,0.07,0.0,0.0
 SpongeBob's Truth or Square (US sales),X360,2009,0.25,0.0,0.0,0.0
-Final Fantasy II,WS,2001,0.0,0.0,0.25,0.0
 WipEout Fusion,PS2,2002,0.12,0.1,0.0,0.03
 Spider-Man: Edge of Time,X360,2011,0.18,0.05,0.0,0.02
 UEFA Euro 2008 Austria-Switzerland,PSP,2008,0.06,0.13,0.0,0.06
@@ -5992,7 +5976,6 @@ Atari Anthology,XB,2004,0.19,0.05,0.0,0.01
 Ultimate Fighting Championship,PS,2000,0.14,0.09,0.0,0.02
 XIII,XB,2003,0.16,0.08,0.0,0.01
 MotoGP '07,X360,2007,0.23,0.0,0.0,0.02
-Samurai Shodown II,NG,1994,0.0,0.0,0.25,0.0
 Mortal Kombat: Armageddon,Wii,2007,0.21,0.02,0.0,0.02
 Don King Presents: Prizefighter,X360,2008,0.14,0.08,0.0,0.02
 Hybrid Heaven,N64,1999,0.16,0.04,0.05,0.0
@@ -6300,7 +6283,6 @@ Naruto Shippuden: Ultimate Ninja Storm Revolution,X360,2014,0.13,0.08,0.0,0.02
 Madden NFL 06,GBA,2005,0.17,0.06,0.0,0.0
 Karaoke Revolution Glee 2: Road to Regionals,Wii,2011,0.15,0.06,0.0,0.02
 NASCAR 08,PS3,2007,0.15,0.05,0.0,0.03
-The King of Fighters '95 (CD),NG,1994,0.0,0.0,0.23,0.0
 Perfect Weapon,PS,1996,0.13,0.09,0.0,0.02
 Project CARS,XOne,2015,0.08,0.13,0.0,0.02
 Major League Baseball 2K10,PS2,2010,0.11,0.09,0.0,0.03
@@ -6697,7 +6679,6 @@ The Wolf Among Us,PS4,2014,0.1,0.07,0.0,0.03
 Thrillville,PSP,2006,0.18,0.0,0.0,0.02
 Battle of Giants: Dinosaurs Strike,Wii,2010,0.15,0.04,0.0,0.02
 Attack on Titan (KOEI),PS4,2016,0.02,0.06,0.11,0.02
-The King of Fighters '95,NG,1995,0.0,0.0,0.2,0.0
 Mary-Kate and Ashley: Girls Night Out,GBA,2002,0.15,0.05,0.0,0.0
 Cabela's North American Adventures,Wii,2010,0.19,0.0,0.0,0.01
 Enchanted Arms,PS3,2007,0.17,0.01,0.0,0.02
@@ -6748,7 +6729,6 @@ Ashes Cricket 2009,X360,2009,0.0,0.19,0.0,0.01
 Saturday Night Speedway,PS2,2004,0.1,0.08,0.0,0.03
 Bratz: Rock Angelz,GC,2005,0.16,0.04,0.0,0.01
 Langrisser III,SAT,1996,0.0,0.0,0.2,0.0
-Samurai Spirits (CD),NG,1994,0.0,0.0,0.2,0.0
 MLB SlugFest 20-03,XB,2002,0.15,0.04,0.0,0.01
 Dragon Ball: Revenge of King Piccolo,Wii,2009,0.13,0.03,0.03,0.02
 Spectrobes: Origins,Wii,2009,0.16,0.02,0.0,0.02
@@ -7061,7 +7041,6 @@ International Soccer,2600,1981,0.18,0.01,0.0,0.0
 Sing4: The Hits Edition,Wii,2011,0.18,0.0,0.0,0.01
 Princess Maker: Yumemiru Yosei,PS,1997,0.0,0.0,0.18,0.01
 Big Air,PS,1999,0.1,0.07,0.0,0.01
-Shining Force II,GEN,1993,0.0,0.0,0.19,0.0
 Gallop Racer,PS,1999,0.0,0.0,0.18,0.01
 Harry Potter and the Prisoner of Azkaban,XB,2004,0.14,0.04,0.0,0.01
 NASCAR Unleashed,3DS,2011,0.18,0.0,0.0,0.01
@@ -7182,7 +7161,6 @@ Fear Effect 2: Retro Helix,PS,2001,0.1,0.07,0.0,0.01
 How to Train Your Dragon,PS3,2010,0.12,0.04,0.0,0.02
 Remember Me,X360,2013,0.1,0.07,0.0,0.02
 International Superstar Soccer 2000 (JP weekly sales),N64,1999,0.0,0.0,0.18,0.0
-Chocobo no Fushigi Dungeon for WonderSwan,WS,1999,0.0,0.0,0.18,0.0
 Klonoa: Door to Phantomile,PS,1997,0.0,0.0,0.17,0.01
 Vietcong: Purple Haze,PS2,2004,0.09,0.07,0.0,0.02
 Hitman: HD Trilogy,X360,2013,0.07,0.09,0.0,0.02
@@ -7400,7 +7378,6 @@ RoadKill,PS2,2003,0.08,0.07,0.0,0.02
 Hanjuku Eiyuu Tai 3D,PS2,2003,0.0,0.0,0.17,0.0
 .hack//G.U. Vol.3//Redemption,PS2,2007,0.0,0.0,0.17,0.0
 Chuck E. Cheese's Party Games,Wii,2010,0.16,0.0,0.0,0.01
-Super Robot Taisen Compact 2 Dai-1-Bu,WS,2000,0.0,0.0,0.17,0.0
 Looney Tunes: Back in Action,GC,2003,0.13,0.03,0.0,0.0
 Tak: The Great Juju Challenge,GBA,2005,0.12,0.05,0.0,0.0
 Macross Ultimate Frontier,PSP,2009,0.0,0.0,0.17,0.0
@@ -7921,7 +7898,6 @@ Street Fighter Alpha 3,GBA,2002,0.11,0.04,0.0,0.0
 Mobile Suit Gundam Side Story III: Sabakareshi Mono,SAT,1997,0.0,0.0,0.15,0.0
 Warriors Orochi 3,PS4,2014,0.04,0.05,0.04,0.02
 Nancy Drew: The White Wolf of Icicle Creek,Wii,2008,0.14,0.0,0.0,0.01
-Super Street Fighter II,GEN,1993,0.0,0.0,0.15,0.0
 Metal Gear Solid: Peace Walker HD Edition,PS3,2011,0.0,0.0,0.15,0.0
 Battle Stadium D.O.N,PS2,2006,0.0,0.0,0.15,0.0
 No.1 Muscle Ranking - Kinniku Banzuke Vol. 2: Aratanarugenkai Enochousen!,PS,2000,0.0,0.0,0.14,0.01
@@ -7998,7 +7974,6 @@ Barbarian,PS2,2002,0.07,0.06,0.0,0.02
 Deception IV: Blood Ties,PSV,2014,0.03,0.03,0.07,0.02
 Tennis no Oji-Sama: Aim at The Victory!,GBA,2002,0.0,0.0,0.14,0.0
 L.A. Rush,XB,2005,0.11,0.03,0.0,0.01
-"Lunar 2: Eternal Blue(sales, but wrong system)",GEN,1994,0.0,0.0,0.14,0.0
 Pipe Dreams 3D,PS,2001,0.08,0.05,0.0,0.01
 Derby Stallion Gold,3DS,2014,0.0,0.0,0.14,0.0
 Adventure Time: Explore the Dungeon Because I Don't Know!,3DS,2013,0.1,0.03,0.0,0.01
@@ -8007,7 +7982,6 @@ Fox Sports Golf '99,PS,1997,0.08,0.05,0.0,0.01
 Jurassic: The Hunted,PS2,2009,0.07,0.06,0.0,0.02
 Power Rangers: Super Legends,PS2,2007,0.07,0.06,0.0,0.02
 Sakura Wars GB,GB,2000,0.0,0.0,0.14,0.0
-Shining Force CD,SCD,1994,0.0,0.0,0.14,0.0
 Rayman 3,GBA,2003,0.1,0.04,0.0,0.0
 Fatal Frame,PS2,2001,0.07,0.06,0.0,0.02
 The Fifth Element,PS,1998,0.08,0.05,0.0,0.01
@@ -8158,7 +8132,6 @@ Bottom of the 9th,PS,1996,0.08,0.05,0.0,0.01
 Pro Yaky? Spirits 2014,PS3,2014,0.0,0.0,0.14,0.0
 Dino Crisis 3,XB,2003,0.08,0.03,0.03,0.0
 NFL Blitz 20-03,GC,2002,0.11,0.03,0.0,0.0
-The King of Fighters '94 (CD),NG,1993,0.0,0.0,0.14,0.0
 The Walking Dead: Season Two,XOne,2014,0.08,0.05,0.0,0.01
 The Darkness II,PC,2012,0.1,0.03,0.0,0.01
 Create,X360,2010,0.1,0.03,0.0,0.01
@@ -8182,7 +8155,6 @@ Hard Rock Casino,PSP,2007,0.12,0.0,0.0,0.01
 Space Venus starring Morning Musume,PS2,2001,0.0,0.0,0.14,0.0
 To Heart,PS,1999,0.0,0.0,0.13,0.01
 Wild ARMs XF,PSP,2007,0.07,0.0,0.06,0.01
-Doukyuusei,TG16,1995,0.0,0.0,0.14,0.0
 RockMan & Forte,SNES,1998,0.0,0.0,0.14,0.0
 Persona 4: Arena Ultimax,PS3,2014,0.0,0.01,0.13,0.0
 NBA 2K13,WiiU,2012,0.08,0.04,0.0,0.01
@@ -8460,7 +8432,6 @@ Fuse (Insomniac),X360,2013,0.08,0.04,0.0,0.01
 Cabela's Dangerous Hunts 2009,PS3,2008,0.12,0.0,0.0,0.01
 Legends of Wrestling,GC,2002,0.1,0.03,0.0,0.0
 Legend of the Guardians: The Owls of Ga'Hoole,Wii,2010,0.11,0.01,0.0,0.01
-Gunstar Heroes,GEN,1992,0.0,0.0,0.13,0.0
 All-Star Baseball 2004,XB,2003,0.1,0.03,0.0,0.0
 Shining Wind,PS2,2007,0.0,0.0,0.13,0.0
 Brothers in Arms: Double Time,Wii,2008,0.11,0.0,0.0,0.01
@@ -8596,7 +8567,6 @@ Tom Clancy's Splinter Cell: Blacklist,WiiU,2013,0.05,0.07,0.0,0.01
 Gladiator Begins,PSP,2010,0.05,0.01,0.05,0.01
 Colony Wars III: Red Sun,PS,2000,0.07,0.05,0.0,0.01
 Magic: The Gathering - Battlemage,PS,1997,0.07,0.05,0.0,0.01
-The King of Fighters '94,NG,1994,0.0,0.0,0.12,0.0
 The King of Fighters '98 Ultimate Match,PS2,2008,0.04,0.03,0.03,0.01
 Onechanbara: Bikini Zombie Slayers,Wii,2008,0.11,0.0,0.0,0.01
 Puzzle Quest: Challenge of the Warlords,PS2,2007,0.06,0.05,0.0,0.02
@@ -8653,7 +8623,6 @@ SSX 3,GBA,2003,0.09,0.03,0.0,0.0
 The King of Fighters Collection: The Orochi Saga,Wii,2008,0.11,0.0,0.0,0.01
 Breakdown,XB,2004,0.09,0.03,0.0,0.0
 Rush,PSP,2006,0.11,0.0,0.0,0.01
-Ecco the Dolphin,GEN,1992,0.0,0.0,0.12,0.0
 The Legend of Heroes: Trails of Cold Steel II,PS3,2014,0.01,0.0,0.11,0.0
 Looney Tunes: Sheep Raider,PS,2001,0.07,0.05,0.0,0.01
 Harvest Moon 2 GBC,GB,1999,0.0,0.0,0.12,0.0
@@ -10039,7 +10008,6 @@ Man vs. Wild,PS3,2010,0.07,0.0,0.0,0.01
 Incredible Crisis,PS,1999,0.04,0.03,0.0,0.01
 Midway Arcade Treasures 3,XB,2005,0.06,0.02,0.0,0.0
 The King of Fighters EX2: Howling Blood,GBA,2002,0.06,0.02,0.0,0.0
-Samurai Shodown III,NG,1995,0.0,0.0,0.08,0.0
 Disney's Meet the Robinsons,X360,2007,0.07,0.0,0.0,0.01
 Cabela's North American Adventures,PS2,2010,0.04,0.03,0.0,0.01
 Akiba's Trip Plus,PSP,2012,0.0,0.0,0.08,0.0
@@ -10071,7 +10039,6 @@ Bleach: Erabareshi Tamashii,PS2,2005,0.0,0.0,0.08,0.0
 Sengoku Musou 3: Moushouden,Wii,2011,0.0,0.0,0.08,0.0
 Batman: Dark Tomorrow,GC,2003,0.06,0.02,0.0,0.0
 Looney Tunes: Galactic Sports,PSV,2015,0.0,0.06,0.0,0.02
-Yuu Yuu Hakusho: Makyo Toitsusen,GEN,1994,0.0,0.0,0.08,0.0
 The First Templar,PC,2011,0.06,0.01,0.0,0.01
 Ogre Battle Series: Tactics Ogre,PS,1997,0.04,0.03,0.0,0.01
 Little League World Series Baseball 2010,PS3,2010,0.07,0.0,0.0,0.01
@@ -10148,7 +10115,6 @@ WWE Crush Hour,GC,2003,0.06,0.02,0.0,0.0
 Aliens in the Attic,Wii,2009,0.07,0.0,0.0,0.01
 Dragon Shadow Spell,PS2,2007,0.0,0.0,0.08,0.0
 Sound Novel Tsukuru,SNES,1996,0.0,0.0,0.08,0.0
-Dragon Slayer: The Legend of Heroes,GEN,1994,0.0,0.0,0.08,0.0
 NHL Hitz 20-03,GC,2002,0.06,0.02,0.0,0.0
 Momotarou Dentetsu 11,GC,2002,0.0,0.0,0.07,0.0
 The Idolm@ster,X360,2007,0.0,0.0,0.08,0.0
@@ -10244,7 +10210,6 @@ Winter Sports 2: The Next Challenge,X360,2008,0.06,0.01,0.0,0.01
 Magic Pengel: The Quest for Color,PS2,2002,0.04,0.03,0.0,0.01
 Super Baseball,2600,1987,0.07,0.0,0.0,0.0
 Jikkyou Powerful Pro Yakyuu 2011 Ketteiban,PS3,2011,0.0,0.0,0.07,0.0
-Formula One World Championship: Beyond the Limit,SCD,1994,0.0,0.0,0.07,0.0
 Buster Bros. Collection,PS,1997,0.04,0.03,0.0,0.0
 Sony Computer Science Kenkyuujo Mogi Kenichirou Hakase Kanshuu: Nou ni Kaikan Aha Taiken!,PSP,2006,0.0,0.0,0.07,0.0
 Futurama,PS2,2003,0.04,0.03,0.0,0.01
@@ -10398,7 +10363,6 @@ Second Sight,XB,2004,0.05,0.02,0.0,0.0
 Metal Gear Solid,GB,2000,0.0,0.0,0.07,0.0
 Totaled!,XB,2002,0.05,0.02,0.0,0.0
 Bleach: Heat the Soul 3,PSP,2006,0.0,0.0,0.07,0.0
-Ecco: The Tides of Time,GEN,1993,0.0,0.0,0.07,0.0
 Showtime Championship Boxing,Wii,2007,0.06,0.0,0.0,0.01
 Rock Band Track Pack: Classic Rock,X360,2009,0.07,0.0,0.0,0.01
 Open Season,Wii,2006,0.06,0.0,0.0,0.01
@@ -10489,7 +10453,6 @@ Strike Point,PS,1996,0.04,0.03,0.0,0.0
 Crazy Taxi 2,DC,2001,0.0,0.0,0.07,0.0
 Dragon Slayer: The Legend of Heroes,SNES,1992,0.0,0.0,0.07,0.0
 Tank! Tank! Tank!,WiiU,2012,0.02,0.01,0.05,0.0
-Street Fighter II': Special Champion Edition (JP weekly sales),GEN,1993,0.0,0.0,0.07,0.0
 Command & Conquer 3: Tiberium Wars,PC,2007,0.0,0.06,0.0,0.01
 Tom and Jerry in War of the Whiskers,GC,2003,0.05,0.01,0.0,0.0
 Famicom Mini: Wrecking Crew,GBA,2004,0.0,0.0,0.07,0.0
@@ -10503,7 +10466,6 @@ Motor Toon Grand Prix (Japan),PS,1994,0.0,0.0,0.06,0.0
 Ken to Mahou to Gakuen Mono. 3,PS3,2010,0.0,0.0,0.07,0.0
 Hikaru no Go: Heian Gensou Ibunroku,PS,2002,0.0,0.0,0.06,0.0
 Godzilla (2014),PS3,2014,0.0,0.01,0.06,0.0
-Samurai Shodown,NG,1993,0.0,0.0,0.07,0.0
 OverBlood 2,PS,1998,0.0,0.0,0.06,0.0
 Fighter Maker 2,PS2,2002,0.03,0.03,0.0,0.01
 Lifeline,PS2,2003,0.03,0.03,0.0,0.01
@@ -10622,7 +10584,6 @@ Pro Evolution Soccer 2015,PC,2014,0.0,0.06,0.0,0.01
 Disney Infinity,PSV,2013,0.05,0.0,0.0,0.02
 Pocky & Rocky with Becky,GBA,2001,0.05,0.02,0.0,0.0
 Full Spectrum Warrior: Ten Hammers,PS2,2006,0.03,0.02,0.0,0.01
-Streets of Rage 3,GEN,1993,0.0,0.0,0.07,0.0
 Lego Star Wars: The Force Awakens,3DS,2016,0.02,0.04,0.0,0.0
 12-Sai. Honto no Kimochi,3DS,2014,0.0,0.0,0.07,0.0
 Hasbro Family Game Night Fun Pack,X360,2011,0.06,0.0,0.0,0.0
@@ -10890,7 +10851,6 @@ World Soccer Winning Eleven 9 (US sales),PSP,2005,0.05,0.0,0.0,0.0
 Winning Post 4 Maximum,PS2,2000,0.0,0.0,0.06,0.0
 Oddworld: Munch's Oddysee,GBA,2003,0.04,0.02,0.0,0.0
 Exhibition Volume 5,XB,2004,0.04,0.01,0.0,0.0
-Record of Lodoss War: Eiyuu Sensou,SCD,1994,0.0,0.0,0.06,0.0
 DuckTales: Remastered,WiiU,2013,0.05,0.0,0.0,0.0
 LEGO Batman: The Videogame,PC,2008,0.02,0.03,0.0,0.01
 Atelier Sophie: The Alchemist of the Mysterious Book,PSV,2015,0.0,0.0,0.06,0.0
@@ -10940,7 +10900,6 @@ Super Robot Wars OG: The Moon Dwellers,PS3,2016,0.0,0.0,0.06,0.0
 G-Police: Weapons of Justice,PS,1999,0.03,0.02,0.0,0.0
 Killing Zone,PS,1996,0.03,0.02,0.0,0.0
 All Kamen Rider: Rider Generation 2,PSP,2012,0.0,0.0,0.06,0.0
-Policenauts,3DO,1995,0.0,0.0,0.06,0.0
 Adventures of Lolo,NES,1989,0.06,0.0,0.0,0.0
 Game of Thrones (Telltale),PS3,2015,0.02,0.03,0.0,0.01
 Call of Duty: The War Collection,X360,2010,0.05,0.0,0.0,0.0
@@ -11058,7 +11017,6 @@ MX vs. ATV Supercross Encore,PS4,2015,0.0,0.05,0.0,0.01
 Yuugen Gaisha Brave Company,3DS,2011,0.0,0.0,0.06,0.0
 Mighty Beanz: Pocket Puzzles,GBA,2004,0.04,0.01,0.0,0.0
 Ken to Mahou to Gakuen Mono. 3D,3DS,2011,0.0,0.0,0.06,0.0
-The King of Fighters '96,NG,1996,0.0,0.0,0.06,0.0
 Friends: The One with All the Trivia,PS2,2005,0.03,0.02,0.0,0.01
 Backyard NFL Football '08,PS2,2007,0.03,0.02,0.0,0.01
 Coraline,Wii,2009,0.05,0.0,0.0,0.0
@@ -11185,7 +11143,6 @@ King Arthur,XB,2004,0.04,0.01,0.0,0.0
 DoDonPachi Resurrection,X360,2010,0.0,0.05,0.0,0.01
 Bass Rise,PS,1999,0.03,0.02,0.0,0.0
 UEFA Champions League 2006-2007,X360,2007,0.04,0.01,0.0,0.0
-Dynamite Headdy,GEN,1993,0.0,0.0,0.05,0.0
 Hunted: The Demon's Forge,PC,2011,0.03,0.01,0.0,0.01
 Choujikuu Yousai Macross: Do You Remember Love,PS3,2012,0.0,0.0,0.05,0.0
 Arcania: Gothic 4,PS4,2015,0.04,0.0,0.0,0.01
@@ -11207,7 +11164,6 @@ Virtua Striker 2002,GC,2002,0.01,0.0,0.03,0.0
 Taito Legends Power Up,PSP,2007,0.05,0.0,0.0,0.0
 Fate/Unlimited Codes Portable,PSP,2009,0.0,0.0,0.05,0.0
 Metal Slug Anthology,PSP,2007,0.02,0.0,0.02,0.01
-Game no Kanzume Vol 2,SCD,1994,0.0,0.0,0.05,0.0
 Disney's PK: Out of the Shadows,GC,2002,0.04,0.01,0.0,0.0
 JoJo no Kimy? na B?ken Fantomu Buraddo,PS2,2006,0.0,0.0,0.05,0.0
 The Idolmaster 2,X360,2011,0.0,0.0,0.05,0.0
@@ -11474,7 +11430,6 @@ Silent Hunter: Wolves of the Pacific,PC,2007,0.0,0.04,0.0,0.01
 World Championship Pool 2004,PS2,2004,0.02,0.02,0.0,0.01
 V-Rally 3,GBA,2002,0.03,0.01,0.0,0.0
 Kakuto Chojin,XB,2002,0.04,0.01,0.0,0.0
-Beyond Oasis,GEN,1993,0.0,0.0,0.05,0.0
 Forza Motorsport 3: Ultimate Edition,X360,2010,0.0,0.04,0.0,0.01
 Robotech: Invasion,XB,2004,0.04,0.01,0.0,0.0
 Wii de Asobu Chibi-Robo!,Wii,2009,0.0,0.0,0.05,0.0
@@ -11590,7 +11545,6 @@ Trigger Man,XB,2004,0.03,0.01,0.0,0.0
 Bad Boys: Miami Takedown,GC,2004,0.03,0.01,0.0,0.0
 SpongeBob SquarePants: Plankton's Robotic Revenge,WiiU,2013,0.0,0.04,0.0,0.0
 Short Track Racing: Trading Paint,PS2,2009,0.02,0.02,0.0,0.01
-Game no Kanzume Vol 1,SCD,1994,0.0,0.0,0.04,0.0
 Rat Attack!,PS,1999,0.03,0.02,0.0,0.0
 Jewel Master: Cradle Of Rome 2,PC,2011,0.0,0.04,0.0,0.01
 Sotsugyou II: Neo Generation,PS,1995,0.0,0.0,0.04,0.0
@@ -11646,7 +11600,6 @@ Hyperdimension Neptunia mk2,PSV,2014,0.0,0.0,0.04,0.0
 Disney's Meet the Robinsons,GC,2007,0.03,0.01,0.0,0.0
 Minna ga Shuyaku no NHK Kouhaku Quiz Kassen,Wii,2009,0.0,0.0,0.04,0.0
 Puyo Puyo Tetris,PS3,2014,0.0,0.0,0.04,0.0
-Sonic the Hedgehog 2 (8-bit),GG,1992,0.0,0.0,0.04,0.0
 FlatOut 2,XB,2006,0.03,0.01,0.0,0.0
 Rogue Trooper,PS2,2006,0.02,0.02,0.0,0.01
 Spy Fiction,PS2,2003,0.02,0.02,0.0,0.01
@@ -11969,7 +11922,6 @@ LEGO Jurassic World,PC,2015,0.0,0.04,0.0,0.0
 Secret Files 2: Puritas Cordis,PC,2009,0.0,0.03,0.0,0.01
 Darklight Conflict,PS,1997,0.02,0.01,0.0,0.0
 Dragon Ball: Advanced Adventure,GBA,2004,0.03,0.01,0.0,0.0
-Art of Fighting 3: The Path of the Warrior,NG,1996,0.0,0.0,0.04,0.0
 Rabbids Land,WiiU,2012,0.02,0.01,0.0,0.0
 Civilization Beyond Earth: Rising Tide,PC,2015,0.0,0.04,0.0,0.0
 The Ripping Friends,GBA,2002,0.03,0.01,0.0,0.0
@@ -12070,7 +12022,6 @@ World in Conflict: Complete Edition,PC,2009,0.0,0.03,0.0,0.01
 True Pinball,PS,1996,0.02,0.01,0.0,0.0
 Stadium Games,GBA,2003,0.03,0.01,0.0,0.0
 RLH: Run Like Hell,XB,2003,0.03,0.01,0.0,0.0
-J-League Pro Striker 2,GEN,1994,0.0,0.0,0.04,0.0
 Obscure,XB,2004,0.03,0.01,0.0,0.0
 Caesar III,PC,1998,0.0,0.03,0.0,0.01
 Super Robot Taisen: Scramble Commander the 2nd,PS2,2007,0.0,0.0,0.04,0.0
@@ -12111,7 +12062,6 @@ Star Wars Jedi Knight: Jedi Academy,PC,2003,0.0,0.03,0.0,0.01
 Greg Hastings Paintball 2,PS3,2010,0.03,0.0,0.0,0.0
 Sangoku Koi Senki: Otome no Heihou!,PSP,2012,0.0,0.0,0.04,0.0
 Batman: A Telltale Game Series,PS4,2016,0.01,0.02,0.0,0.01
-Castlevania Bloodlines,GEN,1994,0.0,0.0,0.04,0.0
 Might & Magic X: Legacy,PC,2014,0.0,0.03,0.0,0.0
 Detective Conan: Prelude from the Past,PSP,2012,0.0,0.0,0.04,0.0
 FabStyle,3DS,2011,0.0,0.0,0.03,0.0
@@ -12178,7 +12128,6 @@ Deer Drive: Legends,3DS,2012,0.03,0.0,0.0,0.0
 Driven,GBA,2001,0.02,0.01,0.0,0.0
 Red Faction II,GC,2003,0.03,0.01,0.0,0.0
 Criminal Girls 2,PSV,2015,0.0,0.0,0.03,0.0
-SD Gundam G Generation: Gather Beat 2,WS,2001,0.0,0.0,0.03,0.0
 Who Wants to be a Millionaire: 1st Edition,Wii,2007,0.0,0.03,0.0,0.0
 Diabolik Lovers: Dark Fate,PSV,2015,0.0,0.0,0.03,0.0
 Battle Engine Aquila,PS2,2003,0.02,0.01,0.0,0.0
@@ -12375,7 +12324,6 @@ Mother Goose no Himitsu no Yakata,PSP,2011,0.0,0.0,0.03,0.0
 Harry Potter and the Half-Blood Prince,PC,2009,0.0,0.03,0.0,0.01
 Winning Post 7 2009,PSP,2009,0.0,0.0,0.03,0.0
 Knights of Honor,PC,2004,0.0,0.02,0.0,0.01
-Puzzle & Action: Tant-R,GEN,1994,0.0,0.0,0.03,0.0
 Code Lyoko: Quest for Infinity,PSP,2008,0.03,0.0,0.0,0.0
 Digimon World 4,XB,2005,0.02,0.01,0.0,0.0
 Bubble Bobble Evolution,PSP,2006,0.03,0.0,0.0,0.0
@@ -12384,7 +12332,6 @@ Galleon: Islands of Mystery,XB,2004,0.02,0.01,0.0,0.0
 Renai 0 Kilometer,PSP,2013,0.0,0.0,0.03,0.0
 World Sports Competition,PS3,2009,0.02,0.0,0.0,0.01
 Summon Night 6: Lost Borders,PS4,2016,0.0,0.0,0.03,0.0
-Far East of Eden Shinden,NG,1995,0.0,0.0,0.03,0.0
 Sunny Garcia Surfing,PS2,2001,0.02,0.01,0.0,0.0
 MotorHead,PS,1998,0.02,0.01,0.0,0.0
 Alia's Carnival! Sacrament,PSV,2015,0.0,0.0,0.03,0.0
@@ -12491,7 +12438,6 @@ Popeye: Rush for Spinach,GBA,2005,0.02,0.01,0.0,0.0
 Culdcept,PS2,2002,0.01,0.01,0.0,0.0
 Beyblade Evolution,3DS,2013,0.02,0.01,0.0,0.0
 Pro Cycling Manager 2016,PC,2016,0.0,0.03,0.0,0.0
-Blue Breaker: Ken Yorimo Hohoemi o,PCFX,1996,0.0,0.0,0.03,0.0
 BeatMania IIDX 15: DJ Troopers,PS2,2008,0.0,0.0,0.03,0.0
 Heathcliff! The Fast and the Furriest,Wii,2010,0.03,0.0,0.0,0.0
 Hyperdimension Neptunia Vs. Sega Hard Girls: Yume no Gattai Special,PSV,2015,0.0,0.0,0.03,0.0
@@ -12858,7 +12804,6 @@ Carnage Heart EXA,PSP,2010,0.0,0.0,0.02,0.0
 Tropico 4: Modern Times,PC,2012,0.0,0.02,0.0,0.0
 Europa Universalis III Complete,PC,2008,0.0,0.02,0.0,0.0
 Bugriders: The Race of Kings,PS,1997,0.01,0.01,0.0,0.0
-Bust-A-Move,3DO,1994,0.0,0.0,0.02,0.0
 Wangan Midnight Portable,PSP,2007,0.0,0.0,0.02,0.0
 Cross Ange: Tenshi to Ryuu no Rondo tr.,PSV,2015,0.0,0.0,0.02,0.0
 Canvas 2,PS2,2006,0.0,0.0,0.02,0.0
@@ -13267,7 +13212,6 @@ Natsuiro High School: Seishun Hakusho,PS4,2015,0.0,0.0,0.02,0.0
 Black Rose Valkyrie,PS4,2016,0.0,0.0,0.02,0.0
 Heroes VS,PSP,2013,0.0,0.0,0.02,0.0
 Kazoku Keikaku,PSP,2010,0.0,0.0,0.02,0.0
-Sotsugyou II: Neo Generation Special,3DO,1995,0.0,0.0,0.02,0.0
 "Transformers: Revenge of the Fallen (XBox 360, PS3, & PC Versions)",PC,2009,0.02,0.0,0.0,0.0
 Agatha Christie's The ABC Murders,PS4,2016,0.01,0.01,0.0,0.0
 Tom Clancy's Splinter Cell Classic Trilogy HD,PS3,2011,0.02,0.0,0.0,0.0
@@ -13318,7 +13262,6 @@ Natsuiro High School: Seishun Hakusho,PS3,2015,0.0,0.0,0.02,0.0
 Kamen Rider: Battride War II,WiiU,2014,0.0,0.0,0.02,0.0
 Shrek / Shark Tale Game Boy Advance Video,GBA,2006,0.01,0.0,0.0,0.0
 Urban Chaos: Riot Response,XB,2006,0.01,0.0,0.0,0.0
-Ginga Fukei Densetsu: Sapphire,TG16,1995,0.0,0.0,0.02,0.0
 Katekyoo Hitman Reborn!! Let's Ansatsu!? Nerawareta 10 Daime!,PS2,2007,0.0,0.0,0.02,0.0
 The Mummy,GBA,2002,0.01,0.0,0.0,0.0
 Guitar Freaks V3 & DrumMania V3,PS2,2007,0.0,0.0,0.02,0.0
@@ -13334,7 +13277,6 @@ Miyako,PSP,2010,0.0,0.0,0.02,0.0
 Motto NUGA-CEL!,PSP,2010,0.0,0.0,0.02,0.0
 Yu-Gi-Oh! GX: The Beginning of Destiny (JP sales),PS2,2007,0.0,0.0,0.02,0.0
 11eyes: CrossOver,PSP,2010,0.0,0.0,0.02,0.0
-Super Dodge Ball,NG,1995,0.0,0.0,0.02,0.0
 Tsuki ni Yori Sou Otome no Sahou: Hidamari no Hibi,PSV,2015,0.0,0.0,0.02,0.0
 Gon: BakuBakuBakuBaku Adventure,3DS,2012,0.0,0.0,0.02,0.0
 Amatsumi Sora ni! Kumo no Hatate ni,PSV,2015,0.0,0.0,0.02,0.0
