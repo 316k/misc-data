@@ -1,0 +1,234 @@
+Category,Item,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Carbohydrates,Dietary Fiber,Sugars,Protein,Restaurant
+Breakfast,Egg McMuffin,300,13.0,5.0,0.0,260mg,750mg,31,4,3,17,mcdonalds
+Breakfast,Egg White Delight,250,8.0,3.0,0.0,25mg,770mg,30,4,3,18,mcdonalds
+Breakfast,Sausage McMuffin,370,23.0,8.0,0.0,45mg,780mg,29,4,2,14,mcdonalds
+Breakfast,Sausage McMuffin with Egg,450,28.0,10.0,0.0,285mg,860mg,30,4,2,21,mcdonalds
+Breakfast,Sausage McMuffin with Egg Whites,400,23.0,8.0,0.0,50mg,880mg,30,4,2,21,mcdonalds
+Breakfast,Steak & Egg McMuffin,430,23.0,9.0,1.0,300mg,960mg,31,4,3,26,mcdonalds
+Breakfast,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",460,26.0,13.0,0.0,250mg,1.3g,38,2,3,19,mcdonalds
+Breakfast,"Bacon, Egg & Cheese Biscuit (Large Biscuit)",520,30.0,14.0,0.0,250mg,1.41g,43,3,4,19,mcdonalds
+Breakfast,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",410,20.0,11.0,0.0,35mg,1.3g,36,2,3,20,mcdonalds
+Breakfast,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",470,25.0,12.0,0.0,35mg,1.42g,42,3,4,20,mcdonalds
+Breakfast,Sausage Biscuit (Regular Biscuit),430,27.0,12.0,0.0,30mg,1.08g,34,2,2,11,mcdonalds
+Breakfast,Sausage Biscuit (Large Biscuit),480,31.0,13.0,0.0,30mg,1.19g,39,3,3,11,mcdonalds
+Breakfast,Sausage Biscuit with Egg (Regular Biscuit),510,33.0,14.0,0.0,250mg,1.17g,36,2,2,18,mcdonalds
+Breakfast,Sausage Biscuit with Egg (Large Biscuit),570,37.0,15.0,0.0,250mg,1.28g,42,3,3,18,mcdonalds
+Breakfast,Sausage Biscuit with Egg Whites (Regular Biscuit),460,27.0,12.0,0.0,35mg,1.18g,34,2,3,18,mcdonalds
+Breakfast,Sausage Biscuit with Egg Whites (Large Biscuit),520,32.0,13.0,0.0,35mg,1.29g,40,3,3,18,mcdonalds
+Breakfast,Southern Style Chicken Biscuit (Regular Biscuit),410,20.0,8.0,0.0,30mg,1.18g,41,2,3,17,mcdonalds
+Breakfast,Southern Style Chicken Biscuit (Large Biscuit),470,24.0,9.0,0.0,30mg,1.29g,46,3,4,17,mcdonalds
+Breakfast,Steak & Egg Biscuit (Regular Biscuit),540,32.0,16.0,1.0,280mg,1.47g,38,2,3,25,mcdonalds
+Breakfast,"Bacon, Egg & Cheese McGriddles",460,21.0,9.0,0.0,250mg,1.25g,48,2,15,19,mcdonalds
+Breakfast,"Bacon, Egg & Cheese McGriddles with Egg Whites",400,15.0,7.0,0.0,35mg,1.25g,47,2,16,20,mcdonalds
+Breakfast,Sausage McGriddles,420,22.0,8.0,0.0,35mg,1.03g,44,2,15,11,mcdonalds
+Breakfast,"Sausage, Egg & Cheese McGriddles",550,31.0,12.0,0.0,265mg,1.32g,48,2,15,20,mcdonalds
+Breakfast,"Sausage, Egg & Cheese McGriddles with Egg Whites",500,26.0,10.0,0.0,50mg,1.32g,46,2,15,21,mcdonalds
+Breakfast,"Bacon, Egg & Cheese Bagel",620,31.0,11.0,0.5,275mg,1.48g,57,3,7,30,mcdonalds
+Breakfast,"Bacon, Egg & Cheese Bagel with Egg Whites",570,25.0,9.0,0.5,60mg,1.48g,55,3,8,30,mcdonalds
+Breakfast,"Steak, Egg & Cheese Bagel",670,35.0,13.0,1.5,295mg,1.51g,56,3,7,33,mcdonalds
+Breakfast,Big Breakfast (Regular Biscuit),740,48.0,17.0,0.0,555mg,1.56g,51,3,3,28,mcdonalds
+Breakfast,Big Breakfast (Large Biscuit),800,52.0,18.0,0.0,555mg,1.68g,56,4,3,28,mcdonalds
+Breakfast,Big Breakfast with Egg Whites (Regular Biscuit),640,37.0,14.0,0.0,35mg,1.59g,50,3,3,26,mcdonalds
+Breakfast,Big Breakfast with Egg Whites (Large Biscuit),690,41.0,14.0,0.0,35mg,1.7g,55,4,4,26,mcdonalds
+Breakfast,Big Breakfast with Hotcakes (Regular Biscuit),1090,56.0,19.0,0.0,575mg,2.15g,111,6,17,36,mcdonalds
+Breakfast,Big Breakfast with Hotcakes (Large Biscuit),1150,60.0,20.0,0.0,575mg,2.26g,116,7,17,36,mcdonalds
+Breakfast,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),990,46.0,16.0,0.0,55mg,2.17g,110,6,17,35,mcdonalds
+Breakfast,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),1050,50.0,16.0,0.0,55mg,2.29g,115,7,18,35,mcdonalds
+Breakfast,Hotcakes,350,9.0,2.0,0.0,20mg,590mg,60,3,14,8,mcdonalds
+Breakfast,Hotcakes and Sausage,520,24.0,7.0,0.0,50mg,930mg,61,3,14,15,mcdonalds
+Breakfast,Sausage Burrito,300,16.0,7.0,0.0,115mg,790mg,26,1,2,12,mcdonalds
+Breakfast,Hash Brown,150,9.0,1.5,0.0,0mg,310mg,15,2,0,1,mcdonalds
+Breakfast,Cinnamon Melts,460,19.0,9.0,0.0,15mg,370mg,66,3,32,6,mcdonalds
+Breakfast,Fruit & Maple Oatmeal,290,4.0,1.5,0.0,5mg,160mg,58,5,32,5,mcdonalds
+Breakfast,Fruit & Maple Oatmeal without Brown Sugar,260,4.0,1.5,0.0,5mg,115mg,49,5,18,5,mcdonalds
+Beef & Pork,Big Mac,530,27.0,10.0,1.0,85mg,960mg,47,3,9,24,mcdonalds
+Beef & Pork,Quarter Pounder with Cheese,520,26.0,12.0,1.5,95mg,1.1g,41,3,10,30,mcdonalds
+Beef & Pork,Quarter Pounder with Bacon & Cheese,600,29.0,13.0,1.5,105mg,1.44g,48,3,12,37,mcdonalds
+Beef & Pork,Quarter Pounder with Bacon Habanero Ranch,610,31.0,13.0,1.5,105mg,1.18g,46,3,10,37,mcdonalds
+Beef & Pork,Quarter Pounder Deluxe,540,27.0,11.0,1.5,85mg,960mg,45,3,9,29,mcdonalds
+Beef & Pork,Double Quarter Pounder with Cheese,750,43.0,19.0,2.5,160mg,1.28g,42,3,10,48,mcdonalds
+Beef & Pork,Hamburger,240,8.0,3.0,0.0,30mg,480mg,32,1,6,12,mcdonalds
+Beef & Pork,Cheeseburger,290,11.0,5.0,0.5,45mg,680mg,33,2,7,15,mcdonalds
+Beef & Pork,Double Cheeseburger,430,21.0,10.0,1.0,90mg,1.04g,35,2,7,24,mcdonalds
+Beef & Pork,Bacon Clubhouse Burger,720,40.0,15.0,1.5,115mg,1.47g,51,4,14,39,mcdonalds
+Beef & Pork,McDouble,380,17.0,8.0,1.0,75mg,840mg,34,2,7,22,mcdonalds
+Beef & Pork,Bacon McDouble,440,22.0,10.0,1.0,90mg,1.11g,35,2,7,27,mcdonalds
+Beef & Pork,Daily Double,430,22.0,9.0,1.0,80mg,760mg,34,2,7,22,mcdonalds
+Beef & Pork,Jalapeño Double,430,23.0,9.0,1.0,80mg,1.03g,35,2,6,22,mcdonalds
+Beef & Pork,McRib,500,26.0,10.0,0.0,70mg,980mg,44,3,11,22,mcdonalds
+Chicken & Fish,Premium Crispy Chicken Classic Sandwich,510,22.0,3.5,0.0,45mg,990mg,55,3,10,24,mcdonalds
+Chicken & Fish,Premium Grilled Chicken Classic Sandwich,350,9.0,2.0,0.0,65mg,820mg,42,3,8,28,mcdonalds
+Chicken & Fish,Premium Crispy Chicken Club Sandwich,670,33.0,9.0,0.0,85mg,1.41g,58,3,11,36,mcdonalds
+Chicken & Fish,Premium Grilled Chicken Club Sandwich,510,20.0,7.0,0.0,105mg,1.25g,44,3,9,40,mcdonalds
+Chicken & Fish,Premium Crispy Chicken Ranch BLT Sandwich,610,28.0,6.0,0.0,70mg,1.4g,57,3,11,32,mcdonalds
+Chicken & Fish,Premium Grilled Chicken Ranch BLT Sandwich,450,15.0,4.5,0.0,90mg,1.23g,43,3,9,36,mcdonalds
+Chicken & Fish,Bacon Clubhouse Crispy Chicken Sandwich,750,38.0,10.0,0.5,90mg,1.72g,65,4,16,36,mcdonalds
+Chicken & Fish,Bacon Clubhouse Grilled Chicken Sandwich,590,25.0,8.0,0.0,110mg,1.56g,51,4,14,40,mcdonalds
+Chicken & Fish,Southern Style Crispy Chicken Sandwich,430,19.0,3.0,0.0,45mg,910mg,43,2,7,21,mcdonalds
+Chicken & Fish,McChicken,360,16.0,3.0,0.0,35mg,800mg,40,2,5,14,mcdonalds
+Chicken & Fish,Bacon Cheddar McChicken,480,24.0,7.0,0.0,65mg,1.26g,43,2,6,22,mcdonalds
+Chicken & Fish,Bacon Buffalo Ranch McChicken,430,21.0,5.0,0.0,50mg,1.26g,41,2,6,20,mcdonalds
+Chicken & Fish,Buffalo Ranch McChicken,360,16.0,3.0,0.0,35mg,990mg,40,2,5,14,mcdonalds
+Chicken & Fish,Premium McWrap Chicken & Bacon (Crispy Chicken),630,32.0,9.0,0.5,80mg,1.54g,56,3,7,32,mcdonalds
+Chicken & Fish,Premium McWrap Chicken & Bacon (Grilled Chicken),480,19.0,7.0,0.0,95mg,1.37g,42,3,6,36,mcdonalds
+Chicken & Fish,Premium McWrap Chicken & Ranch (Crispy Chicken),610,31.0,8.0,0.5,65mg,1.34g,56,3,8,27,mcdonalds
+Chicken & Fish,Premium McWrap Chicken & Ranch (Grilled Chicken),450,18.0,6.0,0.5,80mg,1.17g,42,3,6,30,mcdonalds
+Chicken & Fish,Premium McWrap Southwest Chicken (Crispy Chicken),670,33.0,8.0,0.5,60mg,1.48g,68,5,12,27,mcdonalds
+Chicken & Fish,Premium McWrap Southwest Chicken (Grilled Chicken),520,20.0,6.0,0.0,80mg,1.32g,55,5,10,31,mcdonalds
+Chicken & Fish,Premium McWrap Chicken Sweet Chili (Crispy Chicken),540,23.0,4.5,0.0,50mg,1.26g,61,3,14,23,mcdonalds
+Chicken & Fish,Premium McWrap Chicken Sweet Chili (Grilled Chicken),380,10.0,3.0,0.0,65mg,1.09g,47,3,12,27,mcdonalds
+Chicken & Fish,Chicken McNuggets (4 piece),190,12.0,2.0,0.0,25mg,360mg,12,1,0,9,mcdonalds
+Chicken & Fish,Chicken McNuggets (6 piece),280,18.0,3.0,0.0,40mg,540mg,18,1,0,13,mcdonalds
+Chicken & Fish,Chicken McNuggets (10 piece),470,30.0,5.0,0.0,65mg,900mg,30,2,0,22,mcdonalds
+Chicken & Fish,Chicken McNuggets (20 piece),940,59.0,10.0,0.0,135mg,1.8g,59,3,0,44,mcdonalds
+Chicken & Fish,Chicken McNuggets (40 piece),1880,118.0,20.0,1.0,265mg,3.6g,118,6,1,87,mcdonalds
+Chicken & Fish,Filet-O-Fish,390,19.0,4.0,0.0,40mg,590mg,39,2,5,15,mcdonalds
+Salads,Premium Bacon Ranch Salad (without Chicken),140,7.0,3.5,0.0,25mg,300mg,10,3,4,9,mcdonalds
+Salads,Premium Bacon Ranch Salad with Crispy Chicken,380,21.0,6.0,0.0,70mg,860mg,22,2,5,25,mcdonalds
+Salads,Premium Bacon Ranch Salad with Grilled Chicken,220,8.0,4.0,0.0,85mg,690mg,8,2,4,29,mcdonalds
+Salads,Premium Southwest Salad (without Chicken),140,4.5,2.0,0.0,10mg,150mg,20,6,6,6,mcdonalds
+Salads,Premium Southwest Salad with Crispy Chicken,450,22.0,4.5,0.0,50mg,850mg,42,7,12,23,mcdonalds
+Salads,Premium Southwest Salad with Grilled Chicken,290,8.0,2.5,0.0,70mg,680mg,28,7,10,27,mcdonalds
+Snacks & Sides,Chipotle BBQ Snack Wrap (Crispy Chicken),340,15.0,4.5,0.0,30mg,780mg,37,1,8,14,mcdonalds
+Snacks & Sides,Chipotle BBQ Snack Wrap (Grilled Chicken),260,8.0,3.5,0.0,40mg,700mg,30,1,7,16,mcdonalds
+Snacks & Sides,Honey Mustard Snack Wrap (Crispy Chicken),330,15.0,4.5,0.0,35mg,730mg,34,1,3,14,mcdonalds
+Snacks & Sides,Honey Mustard Snack Wrap (Grilled Chicken),250,8.0,3.5,0.0,45mg,650mg,27,1,2,16,mcdonalds
+Snacks & Sides,Ranch Snack Wrap (Crispy Chicken),360,20.0,5.0,0.0,40mg,810mg,32,1,3,15,mcdonalds
+Snacks & Sides,Ranch Snack Wrap (Grilled Chicken),280,13.0,4.5,0.0,45mg,720mg,25,1,2,16,mcdonalds
+Snacks & Sides,Small French Fries,230,11.0,1.5,0.0,0mg,130mg,30,2,0,2,mcdonalds
+Snacks & Sides,Medium French Fries,340,16.0,2.5,0.0,0mg,190mg,44,4,0,4,mcdonalds
+Snacks & Sides,Large French Fries,510,24.0,3.5,0.0,0mg,290mg,67,5,0,6,mcdonalds
+Snacks & Sides,Kids French Fries,110,5.0,1.0,0.0,0mg,65mg,15,1,0,1,mcdonalds
+Snacks & Sides,Side Salad,20,0.0,0.0,0.0,0mg,10mg,4,1,2,1,mcdonalds
+Snacks & Sides,Apple Slices,15,0.0,0.0,0.0,0mg,0mg,4,0,3,0,mcdonalds
+Snacks & Sides,Fruit 'n Yogurt Parfait,150,2.0,1.0,0.0,5mg,70mg,30,1,23,4,mcdonalds
+Desserts,Baked Apple Pie,250,13.0,7.0,0.0,0mg,170mg,32,4,13,2,mcdonalds
+Desserts,Chocolate Chip Cookie,160,8.0,3.5,0.0,10mg,90mg,21,1,15,2,mcdonalds
+Desserts,Oatmeal Raisin Cookie,150,6.0,2.5,0.0,10mg,135mg,22,1,13,2,mcdonalds
+Desserts,Kids Ice Cream Cone,45,1.5,1.0,0.0,5mg,20mg,7,0,6,1,mcdonalds
+Desserts,Hot Fudge Sundae,330,9.0,7.0,0.0,25mg,170mg,53,1,48,8,mcdonalds
+Desserts,Hot Caramel Sundae,340,8.0,5.0,0.0,30mg,150mg,60,0,43,7,mcdonalds
+Desserts,Strawberry Sundae,280,6.0,4.0,0.0,25mg,85mg,49,0,45,6,mcdonalds
+Sandwiches,BBQ Chicken,330,4.0,1.0,0.0,50mg,860mg,50,2,16,24,subway
+Sandwiches,BBQ Rib,580,31.0,10.0,0.0,60mg,1.26g,54,3,18,21,subway
+Sandwiches,Black Forest Ham,260,4.0,1.5,0.0,30mg,720mg,42,5,8,18,subway
+Sandwiches,Buffalo Chicken,360,12.0,2.0,0.0,55mg,7.71g,39,3,5,24,subway
+Sandwiches,Chicken & Bacon Ranch,530,26.0,10.0,0.5,100mg,1.1g,41,3,6,36,subway
+Sandwiches,Chicken Mango Curry,330,7.0,1.5,0.0,50mg,840mg,43,3,9,24,subway
+Sandwiches,Chicken Tikka,290,5.0,1.0,0.0,50mg,720mg,39,2,6,23,subway
+Sandwiches,Chicken Vindaloo,340,9.0,1.0,0.0,50mg,880mg,42,3,7,24,subway
+Sandwiches,Cold Cut Combo,310,10.0,2.0,0.0,45mg,930mg,38,2,5,16,subway
+Sandwiches,Genoa Salami,430,23.0,8.0,0.0,60mg,1.18g,40,2,5,18,subway
+Sandwiches,Ham & Cheese Fresh Melt,520,29.0,10.0,0.5,75mg,940mg,38,2,5,29,subway
+Sandwiches,Italian B.M.T.®,380,17.0,6.0,0.0,50mg,1.1g,40,3,5,19,subway
+Sandwiches,Meatball Marinara,420,18.0,7.0,1.0,40mg,1.04g,47,4,7,19,subway
+Sandwiches,New Ham & Jack Slider,150,4.5,2.0,0.0,20mg,470mg,18,1,1,8,subway
+Sandwiches,New Italian Spice Slider,230,14.0,5.0,0.0,30mg,690mg,18,1,2,8,subway
+Sandwiches,New Little Cheesesteak Slider,170,7.0,2.0,0.0,15mg,430mg,19,1,2,7,subway
+Sandwiches,New Little Turkey Slider,200,9.0,2.5,0.0,25mg,510mg,17,1,1,9,subway
+Sandwiches,New Southwest Chicken Club,550,27.0,9.0,0.0,95mg,1.23g,43,5,7,34,subway
+Sandwiches,New Steak Club,490,25.0,7.0,0.0,70mg,1.35g,40,2,6,27,subway
+Sandwiches,NEW Ultimate Steak,600,35.0,14.0,1.0,80mg,1.33g,42,3,6,31,subway
+Sandwiches,Oven Roasted Chicken,270,4.5,1.5,0.0,45mg,540mg,41,5,8,21,subway
+Sandwiches,Paneer Tikka,570,30.0,16.0,0.5,70mg,720mg,48,3,7,29,subway
+Sandwiches,Roast Beef,280,4.5,1.5,0.0,45mg,630mg,40,6,7,25,subway
+Sandwiches,Rotisserie-Style Chicken,310,6.0,2.5,0.0,55mg,520mg,40,5,7,28,subway
+Sandwiches,Spicy Italian,450,24.0,9.0,0.0,60mg,1.24g,40,3,5,18,subway
+Sandwiches,Steak & Cheese,340,10.0,4.5,0.0,50mg,1.06g,39,2,5,22,subway
+Sandwiches,Steak & Cheese Fresh Melt,520,29.0,11.0,0.5,80mg,1.55g,41,2,6,26,subway
+Sandwiches,Subway Club®,280,4.0,1.5,0.0,45mg,800mg,41,5,7,25,subway
+Sandwiches,Subway Melt®,380,13.0,5.0,0.0,55mg,1.25g,41,2,6,25,subway
+Sandwiches,Sweet Onion Chicken Teriyaki,320,4.0,1.0,0.0,50mg,720mg,52,5,16,25,subway
+Sandwiches,The Bacon Tatum,470,25.0,5.0,0.0,55mg,1.32g,37,2,4,24,subway
+Sandwiches,The DrayPotle Steak,410,17.0,6.0,0.5,55mg,1.23g,40,2,6,24,subway
+Sandwiches,Tuna,450,25.0,4.5,0.0,40mg,610mg,38,2,5,19,subway
+Sandwiches,Tuna Fresh Melt,600,37.0,11.0,1.0,75mg,1.01g,36,2,3,30,subway
+Sandwiches,Turkey & Bacon,330,9.0,2.5,0.0,45mg,1.05g,40,2,6,24,subway
+Sandwiches,Turkey & Bacon Guacamole,780,27.0,6.0,0.0,90mg,2.28g,87,9,12,49,subway
+Sandwiches,Turkey Breast,250,2.5,0.5,0.0,30mg,730mg,41,5,7,20,subway
+Sandwiches,Turkey Breast & Black Forest Ham,260,3.0,1.0,0.0,30mg,720mg,41,5,7,19,subway
+Sandwiches,Turkey Reuben,430,13.0,3.5,0.0,75mg,1.66g,41,6,8,35,subway
+Sandwiches,Ultimate Meatball Marinara,720,45.0,19.0,1.5,80mg,1.52g,51,6,8,30,subway
+Sandwiches,Ultimate Spicy Italian,730,52.0,21.0,1.0,105mg,1.72g,40,3,3,28,subway
+Sandwiches,Veggie Delite®,190,2.0,0.5,0.0,0mg,240mg,39,5,6,9,subway
+Wraps,BBQ Rib Signature Wrap,1080,65.0,23.0,0.0,115mg,2.56g,86,5,32,38,subway
+Wraps,Black Forest Ham,450,12.0,5.0,0.0,55mg,1.68g,57,4,5,29,subway
+Wraps,Chicken & Bacon Ranch,800,39.0,15.0,0.5,170mg,1.97g,56,4,5,59,subway
+Wraps,Chicken Caesar,610,25.0,9.0,0.0,120mg,1.45g,52,3,4,46,subway
+Wraps,Chipotle Southwest Steak & Cheese,710,33.0,12.0,1.0,95mg,2.17g,63,7,7,41,subway
+Wraps,Cold Cut Combo,530,24.0,7.0,0.0,95mg,1.97g,54,3,4,27,subway
+Wraps,Cripsy Cauliflower Ranch Signature Wrap,830,35.0,8.0,0.0,5mg,2.44g,114,7,5,15,subway
+Wraps,Italian B.M.T. ®,680,37.0,14.0,0.0,105mg,2.31g,57,4,4,32,subway
+Wraps,Meatball Marinara,770,39.0,16.0,2.0,75mg,2.16g,75,8,10,34,subway
+Wraps,NEW Cauliflower Fritter Curry Signature Wrap,790,31.0,7.0,0.0,5mg,2.54g,113,7,4,15,subway
+Wraps,Oven Roasted Chicken,470,13.0,5.0,0.0,90mg,1.39g,55,4,5,35,subway
+Wraps,Roast Beef,490,13.0,5.0,0.0,90mg,1.56g,53,4,4,42,subway
+Wraps,Rotisserie-Style Chicken,550,16.0,7.0,0.0,115mg,1.35g,53,3,3,49,subway
+Wraps,Savory Rotisserie-Style Chicken Caesar,640,29.0,11.0,0.0,115mg,1.5g,52,3,3,47,subway
+Wraps,Spicy Italian,820,52.0,20.0,1.0,125mg,2.58g,57,4,3,31,subway
+Wraps,Steak Fiesta Signature Wrap,470,15.0,5.0,0.0,55mg,1.37g,56,1,3,28,subway
+Wraps,Subway Club®,500,12.0,5.0,0.0,85mg,1.9g,56,4,5,42,subway
+Wraps,Subway Melt®,630,25.0,10.0,0.0,100mg,2.4g,58,3,6,43,subway
+Wraps,Subway Seafood Sensation™,700,41.0,9.0,0.0,35mg,1.79g,67,4,7,18,subway
+Wraps,Sweet Onion Chicken Teriyaki,540,12.0,4.5,0.0,95mg,1.61g,70,4,14,42,subway
+Wraps,Tuna,820,54.0,11.0,0.5,75mg,1.33g,53,3,3,33,subway
+Wraps,Turkey & Bacon Avocado Wrap,750,36.0,11.0,0.0,105mg,2.46g,60,5,5,47,subway
+Wraps,Turkey Apple Signature Wrap,720,32.0,11.0,0.0,105mg,2.45g,63,5,10,47,subway
+Wraps,Turkey Breast,440,9.0,3.5,0.0,55mg,1.77g,55,3,4,33,subway
+Wraps,"Turkey, Bacon & Guacamole",760,37.0,12.0,0.0,105mg,2.56g,61,6,6,47,subway
+Wraps,Veggie Delite®,330,8.0,3.5,0.0,0mg,800mg,55,5,5,10,subway
+Panini,NEW Caprese,510,19.0,8.0,0.0,35mg,590mg,60,3,5,21,subway
+Panini,NEW Chicken Pesto,590,21.0,9.0,0.0,85mg,800mg,61,3,5,37,subway
+Panini,NEW Classic Italian,700,36.0,16.0,0.5,95mg,1.44g,62,3,5,31,subway
+Bowls,American Club,430,24.0,10.0,0.5,120mg,1.7g,14,3,7,41,subway
+Bowls,B.L.T.,340,23.0,8.0,0.0,65mg,1.06g,10,3,6,23,subway
+Bowls,Black Forest Ham,170,5.0,1.5,0.0,55mg,1.01g,12,3,6,21,subway
+Bowls,Buffalo Chicken,370,20.0,4.0,0.0,110mg,14.86g,13,3,7,35,subway
+Bowls,Caesar Chicken,470,31.0,10.0,1.0,140mg,920mg,10,3,6,42,subway
+Bowls,Chicken & Bacon Ranch,600,40.0,13.0,1.0,175mg,1.45g,12,3,8,52,subway
+Bowls,Chicken Pizziola,500,28.0,12.0,1.0,165mg,1.49g,17,4,10,49,subway
+Bowls,Cold Cut Combo,260,16.0,3.5,0.0,95mg,1.31g,9,3,5,20,subway
+Bowls,Italian B.M.T.®,410,29.0,11.0,0.0,105mg,1.65g,13,3,5,25,subway
+Bowls,Meatball Marinara,520,32.0,13.0,2.0,80mg,1.52g,33,8,14,28,subway
+Bowls,Oven Roasted Chicken,200,6.0,2.0,0.0,90mg,660mg,11,3,6,27,subway
+Bowls,Pizza Sub,610,48.0,22.0,1.5,135mg,1.83g,18,5,8,30,subway
+Bowls,Spicy Italian,550,45.0,17.0,1.0,125mg,1.91g,12,3,4,24,subway
+Bowls,Steak & Cheese,370,19.0,10.0,1.0,105mg,1.32g,15,3,7,36,subway
+Bowls,Steak Club,440,26.0,11.0,1.0,115mg,1.52g,13,3,7,39,subway
+Bowls,Subway Melt®,430,24.0,10.0,0.5,120mg,1.7g,14,3,7,41,subway
+Bowls,Sweet Onion Chicken Teriyaki,300,4.5,1.5,0.0,95mg,1.02g,33,3,22,34,subway
+Bowls,Tuna,550,47.0,8.0,0.5,75mg,660mg,8,3,4,26,subway
+Bowls,Turkey & bacon,310,13.0,4.0,0.0,90mg,1.53g,12,3,6,36,subway
+Bowls,Turkey & Bacon Guacamole,420,23.0,6.0,0.0,90mg,1.72g,19,7,7,37,subway
+Bowls,Turkey Breast,160,2.0,0.0,0.0,55mg,1.03g,11,3,5,25,subway
+Bowls,Turkey Breast & Black Forest Ham,170,3.5,1.0,0.0,55mg,1.02g,11,3,6,23,subway
+Bowls,Turkey Italiano,510,37.0,16.0,1.0,130mg,1.83g,13,3,5,33,subway
+Bowls,"Turkey, Bacon & Avocado",370,19.0,5.0,0.0,90mg,1.53g,15,5,6,37,subway
+Bowls,Veggie Patty,330,11.0,1.5,0.0,0mg,1.11g,33,10,7,31,subway
+Salads,BBQ Rib,440,30.0,10.0,0.0,60mg,910mg,28,5,20,17,subway
+Salads,Black Forest Ham,120,3.0,1.0,0.0,30mg,550mg,12,4,6,13,subway
+Salads,Buffalo Chicken,220,11.0,2.0,0.0,55mg,7.47g,12,4,6,20,subway
+Salads,Chicken & Bacon Ranch,460,33.0,11.0,0.5,105mg,1.0g,13,4,7,32,subway
+Salads,Cold Cut Combo,160,9.0,2.0,0.0,45mg,700mg,10,4,5,12,subway
+Salads,Italian B.M.T. ®,240,15.0,6.0,0.0,50mg,870mg,12,4,5,14,subway
+Salads,Meatball Marinara,290,16.0,6.0,1.0,40mg,780mg,22,7,9,15,subway
+Salads,Oven Roasted Chicken,130,3.5,1.0,0.0,45mg,370mg,11,4,6,16,subway
+Salads,Roast Beef,140,3.5,1.0,0.0,45mg,460mg,10,4,5,19,subway
+Salads,Rotisserie-Style Chicken,170,5.0,2.0,0.0,55mg,360mg,10,4,5,23,subway
+Salads,Southwest Chipotle Chicken Club,780,53.0,15.0,1.0,180mg,1.75g,25,11,11,54,subway
+Salads,Spicy Italian,300,23.0,8.0,0.0,60mg,1.0g,12,4,5,14,subway
+Salads,Steak & Cheese,200,9.0,4.5,0.0,50mg,830mg,13,4,7,19,subway
+Salads,Steak Club Salad,480,25.0,10.0,0.5,120mg,2.09g,21,6,10,45,subway
+Salads,Subway Club®,140,3.0,1.0,0.0,45mg,630mg,11,4,6,19,subway
+Salads,Subway Melt®,460,23.0,9.0,0.0,110mg,2.03g,26,8,13,42,subway
+Salads,Sweet Onion Chicken Teriyaki,210,3.0,1.0,0.0,50mg,630mg,30,4,20,19,subway
+Salads,Tuna,310,24.0,4.0,0.0,40mg,370mg,10,4,5,15,subway
+Salads,Turkey & Bacon,190,7.0,2.0,0.0,45mg,810mg,12,4,6,20,subway
+Salads,Turkey & Bacon with Avocado Salad,610,36.0,7.0,0.0,90mg,1.62g,36,16,12,44,subway
+Salads,Turkey Breast,110,1.5,0.0,0.0,30mg,560mg,11,4,5,14,subway
+Salads,Turkey Italiano,230,15.0,5.0,0.0,50mg,870mg,12,4,5,15,subway
+Salads,Veggie Delite®,50,1.0,0.0,0.0,0mg,75mg,9,4,5,3,subway
+Breakfast,"Bacon, Egg & Cheese",460,20.0,7.0,0.0,190mg,1.2g,47,4,4,25,subway
+Breakfast,"Black Forest Ham, Egg & Cheese",420,16.0,5.0,0.0,185mg,1.19g,47,4,4,24,subway
+Breakfast,Egg & Cheese,390,15.0,4.5,0.0,170mg,950mg,46,4,3,19,subway
+Breakfast,"Steak, Egg & Cheese",450,18.0,6.0,0.5,195mg,1.27g,48,4,5,28,subway
